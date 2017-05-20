@@ -1,0 +1,74 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Лодки", 
+		"/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Каталог", 
+		"/catalog/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Где купить",
+		"/store/",
+		Array(),
+		Array(),
+		""
+	),
+    Array(
+        "Акции",
+        "/about/",
+        Array(),
+        Array(),
+        ""
+    ),
+    Array(
+        "Доставка и оплата",
+        "/about/delivery/",
+        Array(),
+        Array(),
+        ""
+    ),
+	Array(
+		"<img class=\"logo_full \" src=\"/images/logo_full.png\" alt=\"Мастер лодок\" width=\"186\">",
+		"/",
+		Array(), 
+		Array(), 
+		"CSite::InDir('/index.php')" 
+	),
+	Array(
+		"Галерея", 
+		"/about/gallery/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Производство", 
+		"/about/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"О компании", 
+		"/about/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Контакты", 
+		"/about/contacts/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>

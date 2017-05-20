@@ -1,0 +1,29 @@
+.wrap-pager {
+    font-family: Opensans-Light;
+    font-size: 16px;
+    text-align: center;
+    color: #48443e;
+}
+
+.wrap-pager > a {
+    color: #48443e;
+    margin: 0 3px;
+}
+
+.page-current, .bx-active {
+    font-weight: bold;
+}
+
+
+.wrap-pager ul li a, .wrap-pager ul li a:hover, .wrap-pager ul li a:focus, .wrap-pager ul li a:active {
+    color: #48443e;
+    text-decoration: none;
+}
+.wrap-pager ul li {
+    display: inline-block;
+    margin: 0 2px;
+}
+.wrap-pager > ul {
+    padding: 0;
+    margin: 0;
+}
